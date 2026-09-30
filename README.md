@@ -15,10 +15,10 @@
 
 | 文档 | 内容 |
 |---|---|
-| [docs/01-住院病历文书结构.md](docs/01-住院病历文书结构.md) | 入院记录、首次病程记录、查房记录、术前小结、手术记录、出院记录的结构要素 |
-| [docs/02-病历模块定义.md](docs/02-病历模块定义.md) | 住院病历 11 个标准模块与字段、门诊病历四栏结构 |
-| [docs/03-书写规范与时限.md](docs/03-书写规范与时限.md) | 病历书写时限要求、书写铁律、常见错误自查清单 |
-| [docs/04-AI提示词示例.md](docs/04-AI提示词示例.md) | 用于 AI 辅助书写的提示词结构与示例 |
+| [docs/01-inpatient-record-structure.md](docs/01-inpatient-record-structure.md) | 入院记录、首次病程记录、查房记录、术前小结、手术记录、出院记录的结构要素 |
+| [docs/02-module-definition.md](docs/02-module-definition.md) | 住院病历 11 个标准模块与字段、门诊病历四栏结构 |
+| [docs/03-writing-rules-and-deadlines.md](docs/03-writing-rules-and-deadlines.md) | 病历书写时限要求、书写铁律、常见错误自查清单 |
+| [docs/04-ai-prompt-examples.md](docs/04-ai-prompt-examples.md) | 用于 AI 辅助书写的提示词结构与示例 |
 
 ## 使用方式
 
